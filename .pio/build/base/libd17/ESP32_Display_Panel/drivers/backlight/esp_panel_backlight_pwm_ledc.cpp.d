@@ -1,0 +1,37 @@
+.pio/build/base/libd17/ESP32_Display_Panel/drivers/backlight/esp_panel_backlight_pwm_ledc.cpp.o: \
+ .pio/libdeps/base/ESP32_Display_Panel/src/drivers/backlight/esp_panel_backlight_pwm_ledc.cpp \
+ .pio/libdeps/base/ESP32_Display_Panel/src/drivers/backlight/esp_panel_backlight_conf_internal.h \
+ .pio/libdeps/base/ESP32_Display_Panel/src/drivers/esp_panel_drivers_conf_internal.h \
+ .pio/libdeps/base/ESP32_Display_Panel/src/esp_panel_conf_internal.h \
+ .pio/libdeps/base/ESP32_Display_Panel/src/esp_panel_types.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/soc_caps.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/mpu_caps.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/qio_opi/include/sdkconfig.h \
+ .pio/libdeps/base/ESP32_Display_Panel/src/esp_panel_versions.h \
+ include/esp_panel_drivers_conf.h \
+ .pio/libdeps/base/ESP32_Display_Panel/src/utils/esp_panel_utils_log.h \
+ .pio/libdeps/base/esp-lib-utils/src/esp_lib_utils.h \
+ .pio/libdeps/base/esp-lib-utils/src/esp_utils_types.h \
+ .pio/libdeps/base/esp-lib-utils/src/esp_utils_versions.h \
+ .pio/libdeps/base/esp-lib-utils/src/esp_utils_conf_internal.h \
+ include/esp_utils_conf.h \
+ .pio/libdeps/base/esp-lib-utils/src/esp_utils_conf_kconfig.h \
+ .pio/libdeps/base/esp-lib-utils/src/check/esp_utils_check.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_err.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_compiler.h \
+ .pio/libdeps/base/esp-lib-utils/src/log/esp_utils_log.h \
+ .pio/libdeps/base/esp-lib-utils/src/memory/esp_utils_mem.h \
+ .pio/libdeps/base/ESP32_Display_Panel/src/drivers/backlight/esp_panel_backlight_pwm_ledc.hpp \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/driver/ledc/include/driver/ledc.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_hw_support/include/esp_intr_alloc.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/hal/include/hal/ledc_types.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/clk_tree_defs.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/driver/gpio/include/driver/gpio.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/hal/include/hal/gpio_types.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_bit_defs.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_rom/include/esp_rom_gpio.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/gpio_pins.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/driver/gpio/include/driver/gpio_etm.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_hw_support/include/esp_etm.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_idf_version.h \
+ .pio/libdeps/base/ESP32_Display_Panel/src/drivers/backlight/esp_panel_backlight.hpp

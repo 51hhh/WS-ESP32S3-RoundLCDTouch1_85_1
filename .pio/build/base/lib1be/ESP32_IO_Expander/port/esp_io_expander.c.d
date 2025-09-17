@@ -1,0 +1,24 @@
+.pio/build/base/lib1be/ESP32_IO_Expander/port/esp_io_expander.c.o: \
+ .pio/libdeps/base/ESP32_IO_Expander/src/port/esp_io_expander.c \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_bit_defs.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_check.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_err.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_compiler.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/log/include/esp_log.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_rom/include/esp_rom_sys.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/reset_reasons.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/log/include/esp_log_internal.h \
+ .pio/libdeps/base/ESP32_IO_Expander/src/port/esp_io_expander.h \
+ .pio/libdeps/base/ESP32_IO_Expander/src/esp_expander_utils.h \
+ .pio/libdeps/base/esp-lib-utils/src/esp_lib_utils.h \
+ .pio/libdeps/base/esp-lib-utils/src/esp_utils_types.h \
+ .pio/libdeps/base/esp-lib-utils/src/esp_utils_versions.h \
+ .pio/libdeps/base/esp-lib-utils/src/esp_utils_conf_internal.h \
+ include/esp_utils_conf.h \
+ .pio/libdeps/base/esp-lib-utils/src/esp_utils_conf_kconfig.h \
+ .pio/libdeps/base/esp-lib-utils/src/check/esp_utils_check.h \
+ .pio/libdeps/base/esp-lib-utils/src/log/esp_utils_log.h \
+ .pio/libdeps/base/esp-lib-utils/src/memory/esp_utils_mem.h \
+ .pio/libdeps/base/esp-lib-utils/src/esp_utils_helpers.h \
+ .pio/libdeps/base/esp-lib-utils/src/log/esp_utils_log_helper.h \
+ .pio/libdeps/base/esp-lib-utils/src/memory/esp_utils_mem_helper.h

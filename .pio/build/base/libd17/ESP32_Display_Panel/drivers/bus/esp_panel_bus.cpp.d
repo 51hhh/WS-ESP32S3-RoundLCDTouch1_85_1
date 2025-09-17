@@ -1,0 +1,29 @@
+.pio/build/base/libd17/ESP32_Display_Panel/drivers/bus/esp_panel_bus.cpp.o: \
+ .pio/libdeps/base/ESP32_Display_Panel/src/drivers/bus/esp_panel_bus.cpp \
+ .pio/libdeps/base/ESP32_Display_Panel/src/utils/esp_panel_utils_log.h \
+ .pio/libdeps/base/esp-lib-utils/src/esp_lib_utils.h \
+ .pio/libdeps/base/esp-lib-utils/src/esp_utils_types.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/qio_opi/include/sdkconfig.h \
+ .pio/libdeps/base/esp-lib-utils/src/esp_utils_versions.h \
+ .pio/libdeps/base/esp-lib-utils/src/esp_utils_conf_internal.h \
+ include/esp_utils_conf.h \
+ .pio/libdeps/base/esp-lib-utils/src/esp_utils_conf_kconfig.h \
+ .pio/libdeps/base/esp-lib-utils/src/check/esp_utils_check.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_err.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_compiler.h \
+ .pio/libdeps/base/esp-lib-utils/src/log/esp_utils_log.h \
+ .pio/libdeps/base/esp-lib-utils/src/memory/esp_utils_mem.h \
+ .pio/libdeps/base/ESP32_Display_Panel/src/drivers/bus/esp_panel_bus.hpp \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_lcd/include/esp_lcd_types.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/hal/include/hal/lcd_types.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/soc_caps.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/mpu_caps.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/clk_tree_defs.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_assert.h \
+ C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_lcd/include/esp_lcd_panel_io.h \
+ .pio/libdeps/base/ESP32_Display_Panel/src/drivers/bus/esp_panel_bus_conf_internal.h \
+ .pio/libdeps/base/ESP32_Display_Panel/src/drivers/esp_panel_drivers_conf_internal.h \
+ .pio/libdeps/base/ESP32_Display_Panel/src/esp_panel_conf_internal.h \
+ .pio/libdeps/base/ESP32_Display_Panel/src/esp_panel_types.h \
+ .pio/libdeps/base/ESP32_Display_Panel/src/esp_panel_versions.h \
+ include/esp_panel_drivers_conf.h
